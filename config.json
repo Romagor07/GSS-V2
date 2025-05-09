@@ -1,0 +1,24 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "guildId": "YOUR_GUILD_ID",
+  "servers": [
+    {
+      "name": "DarkRP #1",
+      "ip": "127.0.0.1",
+      "port": 27015,
+      "connect": "127.0.0.1:27015"
+    },
+    {
+      "name": "DarkRP #2",
+      "ip": "127.0.0.1",
+      "port": 27016,
+      "connect": "127.0.0.1:27016"
+    },
+    {
+      "name": "DarkRP #3",
+      "ip": "127.0.0.1",
+      "port": 27017,
+      "connect": "127.0.0.1:27017"
+    }
+  ]
+}
