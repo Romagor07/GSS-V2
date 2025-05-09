@@ -105,4 +105,4 @@ npm start
 
 ## 📜 Лицензия
 
-MIT © [YourName](https://github.com/yourusername)
+MIT © [romagor07](https://github.com/Romagor07)
